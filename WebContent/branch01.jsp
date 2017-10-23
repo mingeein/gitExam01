@@ -8,7 +8,6 @@
 
 </head>
 <body>
-<h1>gitTest01.jsp 문서입니다.	</h1>
-<h2>branch01에서 작업하고 있음</h2>
+<h1>branch01문서에서 무언가 작업중</h1>
 </body>
 </html>
