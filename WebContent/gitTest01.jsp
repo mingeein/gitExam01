@@ -12,5 +12,8 @@
 <h2>branch01에서 작업하고 있음</h2>
 <hr color="blue">
 <h4>마스터상태에서 수정하고 있음!!!</h4>
+<hr color="red">
+<h2>branch02상태에서 변경하고 있떠염</h2>
+
 </body>
 </html>
